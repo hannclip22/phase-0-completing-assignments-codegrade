@@ -2,6 +2,8 @@
 
 ## Learning Goals
 
+Yay!
+
 - Understand the steps needed to complete an assignment
 - Submit assignments in Canvas through CodeGrade
 
